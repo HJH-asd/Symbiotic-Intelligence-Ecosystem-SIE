@@ -28,3 +28,7 @@
 
 ## v0.3 addition
 Added bilingual literature-grounded research foundations, source bibliography, comparative hypotheses, explicit limitations and falsification criteria. Sources were spot-checked against publisher/preprint pages; this is not a systematic literature review.
+
+## v0.4 change note (2026-10-14)
+
+Added bilingual research scope/differences and money/resource coordination chapters, related-work adoption matrix, and cross-system comparative experiment. Preserved all v0.3 files. The package is an offline update to v0.3, **not** a verification of the current GitHub repository state. No experiments were executed.

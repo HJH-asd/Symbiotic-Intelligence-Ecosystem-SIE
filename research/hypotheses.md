@@ -16,3 +16,7 @@
 
 Each experiment must define agents, incentives, intervention, baselines, metrics, sample size, and sensitivity analysis in advance. / 每项实验应预先定义代理、激励、干预、基线、指标、样本量与敏感性分析。
 
+
+## v0.4 cross-system extensions / 跨系统新增假设
+
+See [cross-system experiment](cross-system-experiment.md) and [money / resource coordination](../docs/en/08-money-and-resource-coordination.md). Hypotheses H-E1–H-E4 concern currency, points, reciprocity and mixed regimes; they are **unverified**. / 货币、积分、互惠和混合机制的 H-E1–H-E4 均未验证。

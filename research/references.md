@@ -43,3 +43,7 @@
 - Link: https://doi.org/10.1038/nature04605
 - Supported finding: Network structure changes conditions for cooperative strategy evolution in a particular model.
 - Boundary: Not a proof that more decentralized networks always cooperate better.
+
+## v0.4 additional related work
+
+For carefully qualified comparisons and links, see [Related Work and Adoption Matrix](related-work-and-adoption.md). Existing literature must not be treated as experimental validation of SIE.
