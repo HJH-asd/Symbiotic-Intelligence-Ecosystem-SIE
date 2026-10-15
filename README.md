@@ -2,7 +2,7 @@
 
 **An open, provisional research framework for cooperation, resilience, and self-correction across heterogeneous intelligences.**
 
-> **Status:** Conceptual research proposal, not a validated architecture, deployed system, or claim of scientific priority. Version 0.4 — 2026-10-14.
+> **Status:** Conceptual research proposal, not a validated architecture, deployed system, or claim of scientific priority. Version 0.5 — 2026-10-15.
 
 SIE explores how humans, AI systems, robots, **other living organisms, natural ecosystems**, institutions, and the material infrastructures on which they depend might coexist and evolve without making survival contingent on coercive dependence, destructive competition, or unaccountable concentration of control.
 
@@ -38,6 +38,15 @@ SIE is **not** simply a larger multi-agent AI platform or a human–AI collabora
 20. [Related work and adoption matrix / 相关研究采纳矩阵](research/related-work-and-adoption.md)
 21. [Cross-system experiment / 跨系统对照实验](research/cross-system-experiment.md)
 22. [Terminology / 术语](GLOSSARY.md)
+
+## New in v0.5 — Information ecology / 信息生态
+
+- [Information ecology foundations (English)](docs/en/09-information-ecology-foundations.md)
+- [信息生态理论基础（中文）](docs/zh/09-information-ecology-foundations.md)
+- [Information ecology hypotheses / 信息生态可检验假设](research/information-ecology-hypotheses.md)
+- [Independent AI critical review / 独立 AI 批判性审查](research/independent-ai-review-protocol.md)
+
+**Central provisional thesis:** Under some changing, uncertain environments, preserving independently testable and transferable information structures may protect long-run adaptive capacity against homogenizing optimization. This is not a proof of universal ecological superiority. / **核心待验证命题：** 在部分变化且不确定的环境中，保留可独立检验和迁移的信息结构，可能使系统免于同质化优化带来的长期适应能力损失；这不是生态普遍优越性的证明。
 
 ## Principles of interpretation
 

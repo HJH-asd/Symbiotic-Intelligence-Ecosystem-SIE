@@ -32,3 +32,7 @@ Added bilingual literature-grounded research foundations, source bibliography, c
 ## v0.4 change note (2026-10-14)
 
 Added bilingual research scope/differences and money/resource coordination chapters, related-work adoption matrix, and cross-system comparative experiment. Preserved all v0.3 files. The package is an offline update to v0.3, **not** a verification of the current GitHub repository state. No experiments were executed.
+
+## v0.5 change note (2026-10-15)
+
+Added bilingual information-ecology foundations, five explicitly unverified hypotheses, and a blind-first independent AI review protocol. Preserved v0.4 documents. This archive is built from the available v0.4 package, not a live verified GitHub checkout. No new empirical results or verified literature survey are claimed. / 新增双语信息生态基础、五项待验证假设及先独立后交叉的 AI 审查协议。保留 v0.4 文件。以现有 v0.4 离线资料包为基础，并未实时核验 GitHub；没有新增实验结果或声称已完成文献核验。
